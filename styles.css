@@ -58,7 +58,7 @@ header {
 
 .hero {
     background: linear-gradient(rgba(44, 24, 16, 0.7), rgba(44, 24, 16, 0.7)),
-        url('imagens/Perfil-site.png') center / cover;
+        url('Perfil-site.png') center / cover;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -188,4 +188,5 @@ header {
     text-align: center;
     font-size: 2rem;
     color: #666666;
+
 }
